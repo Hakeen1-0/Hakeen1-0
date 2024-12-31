@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hakeen1-0
+ - 👋 Hi, I’m @Hakeen1-0
 - 👀 I used to be interested in Data Analysis, SQL
-- 🌱 I’m currently learning Cloud Engineering
+- 🌱 I’m currently learning Cloud Engineering among other things
 - 💞️ I’m looking to learn actively and collaborate on beneficial projects for beginners
 - 📫 How to reach me - eduhelp000@gmail.com 
 
